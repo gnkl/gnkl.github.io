@@ -22,3 +22,5 @@ pelican --listen
 ```
 
 The repo provides a makefile commands for ease of use. Run `make help` to view them.
+
+I have updated the makefiles to publish to the `gh-pages` branch everytime I run `make github`.
