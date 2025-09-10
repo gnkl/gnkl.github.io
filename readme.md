@@ -1,5 +1,7 @@
 # Private Website Using Pelican
 
+You can visit the website [here](https://gnkl.github.io/).
+
 Pelican is a python based static website generator.
 
 ## Quickstart
