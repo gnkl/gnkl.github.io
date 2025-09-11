@@ -32,3 +32,6 @@ Some of my favourite are: `nmnlist`, `Flex`, `genus`, `hyde`.
 
 Clone the theme locally, then run `pelican-themes install <relative-path>`.
 Currently, I am using `mnmlist` theme, and have changed colors to my needs.
+
+Some tips:
+* [Copy static files to the root of your site](https://docs.getpelican.com/en/4.8.0/tips.html#copy-static-files-to-the-root-of-your-site)
