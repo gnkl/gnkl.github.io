@@ -12,6 +12,7 @@ DEFAULT_LANG = 'en'
 THEME = "./pelican-themes/nmnlist-gnkl"
 STATIC_PATHS = ['assets'] # relative to PATH, hence content/assets
 HIDE_DATE = True
+EXTRA_PATH_METADATA = { 'assets/favicon.ico': {'path': 'favicon.ico'} }
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
