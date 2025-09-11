@@ -29,3 +29,6 @@ I have updated the makefiles to publish to the `gh-pages` branch everytime I run
 
 Here, I can view different [themes](https://pelicanthemes.com/).
 Some of my favourite are: `nmnlist`, `Flex`, `genus`, `hyde`.
+
+Clone the theme locally, then run `pelican-themes install <relative-path>`.
+Currently, I am using `mnmlist` theme, and have changed colors to my needs.
