@@ -10,7 +10,7 @@ DEFAULT_LANG = 'en'
 
 # Theme and theme specific variables
 THEME = "./pelican-themes/nmnlist-gnkl"
-STATIC_PATHS = ['assets']
+STATIC_PATHS = ['assets'] # relative to PATH, hence content/assets
 HIDE_DATE = True
 
 # Feed generation is usually not desired when developing
